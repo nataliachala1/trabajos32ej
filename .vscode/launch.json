@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "exercise10.Age",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "proceso1.Main",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Letras",
+            "request": "launch",
+            "mainClass": "exercise25.Letras",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Numerooo",
+            "request": "launch",
+            "mainClass": "exercise32.Numerooo",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Mes",
+            "request": "launch",
+            "mainClass": "exercise31.Mes",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Ganador",
+            "request": "launch",
+            "mainClass": "exercise29.Ganador",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "exercise26.Fibonacci",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Serie",
+            "request": "launch",
+            "mainClass": "exercise24.Serie",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "NumerosEnteros",
+            "request": "launch",
+            "mainClass": "exercise23.NumerosEnteros",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Enteros",
+            "request": "launch",
+            "mainClass": "exercise22.Enteros",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "exercise21.Age",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Numero",
+            "request": "launch",
+            "mainClass": "exercise18.Numero",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Numeros",
+            "request": "launch",
+            "mainClass": "exercise17.Numeros",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Vocal",
+            "request": "launch",
+            "mainClass": "exercise16.Vocal",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "exercise14.Number",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Cds",
+            "request": "launch",
+            "mainClass": "Cds",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Distance",
+            "request": "launch",
+            "mainClass": "Distance",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Partidos",
+            "request": "launch",
+            "mainClass": "Partidos",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Planilla",
+            "request": "launch",
+            "mainClass": "Planilla",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Promedio",
+            "request": "launch",
+            "mainClass": "Promedio",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Puntaje",
+            "request": "launch",
+            "mainClass": "Puntaje",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Distancia",
+            "request": "launch",
+            "mainClass": "exercise8.Distancia",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Cuil",
+            "request": "launch",
+            "mainClass": "exercise9.Cuil",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        }
+    ]
+}
