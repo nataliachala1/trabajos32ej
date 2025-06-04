@@ -20,7 +20,8 @@ public class Sueldo {
         }
         SP = SS / numE;
         System.out.println("El sueldo promedio es:" + SP);
-     input.close();
+        
     }
+    
     
 }

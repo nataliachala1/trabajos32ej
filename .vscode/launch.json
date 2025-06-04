@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "TrabajosJavier_bf6d2a12"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Arreglos",
+            "request": "launch",
+            "mainClass": "Arreglos",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Nombres",
+            "request": "launch",
+            "mainClass": "Nombres",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Arreglo",
+            "request": "launch",
+            "mainClass": "Arreglo",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Puntaje2",
+            "request": "launch",
+            "mainClass": "Puntaje2",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Promedio2",
+            "request": "launch",
+            "mainClass": "Promedio2",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Distance2",
+            "request": "launch",
+            "mainClass": "Distance2",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora2",
+            "request": "launch",
+            "mainClass": "Calculadora2",
+            "projectName": "TrabajosJavier_a78a23e1"
+        },
+        {
+            "type": "java",
             "name": "Age",
             "request": "launch",
             "mainClass": "exercise10.Age",
